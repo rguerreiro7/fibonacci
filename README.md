@@ -2,11 +2,12 @@
 
 This repo contains the source code of my solution for the exercise:
 
-_Write a function, to obtain a given Fibonacci number (n):_
+```
+Write a function, to obtain a given Fibonacci number (n):
 
-_fibonacci(5);_
+fibonacci(5);
 
-_fibonacci(10);_
+fibonacci(10);
 
-_fibonacci(1);_
-
+fibonacci(1);
+```
